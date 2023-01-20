@@ -47,3 +47,9 @@
 
 // Most tactile encoders have detents every 4 stages
 #define ENCODER_RESOLUTION 4
+
+// default tapping term
+#define TAPPING_TERM 200
+
+// enables more granular control
+#define TAPPING_TERM_PER_KEY
